@@ -4,7 +4,7 @@
 So you want to learn a new programming language? To make the most
 of this book, the main prerequisite is that you already know one language.
 The point is that, learning your second language (or for that matter, your nth
-language) is radically different from learning your first language.
+language) is utterly different from learning your first language.
 
 So long as you weren't brought up in a bilingual family, then you must have learned a single 
 natural language to start with. Later on, perhaps you learned a second natural language.
