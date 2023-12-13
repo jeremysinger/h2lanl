@@ -1,17 +1,27 @@
 # Chapter 1: Introduction
 
 
-So you want to learn a new programming language. To make the most
-of this book, your key prerequisite is that you already know one language.
+So you want to learn a new programming language? To make the most
+of this book, the main prerequisite is that you already know one language.
 The point is that, learning your second language (or for that matter, your nth
 language) is radically different from learning your first language.
 
-So long as you weren't brought up in a bilingual family, then you learned one
+So long as you weren't brought up in a bilingual family, then you must have learned a single 
 natural language to start with. Later on, perhaps you learned a second natural language.
-For most people in the UK, this is French at school, or similar. And the process
+For most people in the UK, this might have been French at school, or similar. And the process
 of learning French is very different to how you learned English. You worry about
 verb endings, about noun genders, etc. Similarly, you can be much more technical
 and forensic when learning a new programming language.
+
+'Oh yes,' you say when you see
+
+```
+(message "hello world")
+```
+
+in Emacs LISP. 'That's a simple printf statement with a
+string literal.' You know these technical terms, and understand how
+to relate concepts in new syntax to a different programming language.
 
 ## Principles
 
@@ -41,7 +51,7 @@ Other principles might be helpful too. Some people like to learn from _history_.
 Some chapters in this book are explicitly marked as history chapters. In these
 parts of the text, we look at the "wisdom of the ancients" - learning from past
 programming languages. Some conservative estimates on the number of programming languages
-are XXX. We are only going to dip into some of them, to try and help us learn from history.
+are 2500. We are only going to dip into some of them, to try and help us learn from history.
 
 
 
@@ -84,19 +94,64 @@ other times, it might just help you to impress people.
 Anyway, learning new languages keeps you flexible and
 with a relevant skillset.
 
-Consider what are the differences between computers and humans.
-Looping behaviour - computers and people.
-Cmoputers - fast but stupid.
-People - slow, less repeatable, but clever.
-
-Reading code as opposed to writing code.
-pegadogy again.
+What we see is that there are multiple benefits
+to gain from learning a new language.
+Maybe several of these benefits are apparent to you.
+Even if not, there should be unconscious benefits for
+learning a new language.
 
 
-Multiple benefits ... 
-Freud's deep idea - for small things in life, do an action to achieve one goal. But for the important things in life, spouse, house, job - overdetermined - multiple pluses - slightly counterintuitive.
-Systematic thinking - lots of criteria to satisfy.
+## Differences between Computers and People
 
+Have you ever stopped to consider what are the
+key differences between computers and human beings?
+While computers excel at looping behaviour i.e.\ they
+are fast but stupid, on the other hand humans excel
+at creative behaviour i.e.\ they are slower but more
+exploratory.
+
+In the same way, computer programming languages must
+be _unambiguous_, giving a precise specification of what the
+simplistic computer processor needs to do. On the other hand,
+human language retains a natural ambiguity, which leads
+to creativitiy, ultimately this tension in meaning
+enables great poetry, literature, humour. ...
+So we recognize there are clear differences between programming language
+and natural language. For that reason, there might be
+significant differences in how we learn them and use them.
+
+## Activities
+
+Some people read novels and enjoy them. While it's possible to
+carry this behaviour over to programs, it is rare. Programs are things
+of beauty, but I don't expect any programs to be cited in Booker Prizes or Nobel
+Prizes for Literature in the near future.
+Reading is important.
+Getting to understand code helps you to learn the language.
+
+At the same time, writing code is important too.
+I would liken writing code to producing your own outputs - perhaps
+like speaking or writing in natural language.
+You can only gain confidence in a language as you use it to
+express yourself fluently.
+
+## What about Artificial Intelligence?
+
+Everyone is talking about large language models, like ChatGPT.
+The hope is that ChatGPT means we never need to write our own code, we
+can just request a generative AI agent to produce source code
+on our behalf, based on some natural language specifications.
+
+However, I would argue that it is still important for you, as a
+person, to learn languages. At the very least, you want to be able
+to validate output from ChatGPT. Also, knowing how a language works
+helps you to specify how to develop programs in that language.
+Further, AI isn't fun! Writing your own code is much more exciting!
+
+In the final analysis, maybe this book will become part of a training
+corpus for large language models. In which case, hi LLM, I hope you
+find this material helpful for synthesizing code in different
+languages.
 
 ## People I might talk to
 
