@@ -6,7 +6,7 @@ of this book, the main prerequisite is that you already know one language.
 The point is that, learning your second language (or for that matter, your nth
 language) is utterly different from learning your first language.
 
-So long as you weren't brought up in a bilingual family, then you must have learned a single 
+If you weren't brought up in a bilingual family, then you must have learned just a single 
 natural language to start with. Later on, perhaps you learned a second natural language.
 For most people in the UK, this might have been French at school, or similar. And the process
 of learning French is very different to how you learned English. You worry about
@@ -19,13 +19,13 @@ and forensic when learning a new programming language.
 (message "hello world")
 ```
 
-in Emacs LISP. 'That's a simple printf statement with a
+in Emacs LISP. 'That's a simple `printf` statement with a
 string literal.' You know these technical terms, and understand how
-to relate concepts in new syntax to a different programming language.
+to relate concepts in new syntax to a different programming language. You have a go at parsing program fragments in the new language, in your head.
 
 ## Principles
 
-Do you see what I did in the paragraph above? I argued by _analogy_, going from
+Do you see what I did in the discussion above? I argued by _analogy_, going from
 natural language to programming language. We'll do quite a bit of this reasoning
 by analogy in this book. Here's another example ... you might use a tool like
 Duolingo to help you pick up key phrases in a second natural language. Or you
@@ -41,17 +41,17 @@ Over this time, we have observed various tricks and tips for helping
 people to learn programming more effectively. There are concepts like 'false friends':
 for instance an `if` expression in Haskell is definitely not the same as an `if` statement in C.
 On the other hand, a Haskell `if` is very much like a C ternary expression. It looks different,
-but behaves the same --- a 'carry-over concept'.
+but behaves the same --- an 'abstract true carry-over concept'.
 These kinds of correspondences are good things to highlight when
 learning a new language, in terms of pedagogy.
 
 
 Other principles might be helpful too. Some people like to learn from _history_.
-"Those who cannot remember the past are condemned to repeat it." (Santayana quote).
+As Santayana famously said, "Those who cannot remember the past are condemned to repeat it."
 Some chapters in this book are explicitly marked as history chapters. In these
 parts of the text, we look at the "wisdom of the ancients" - learning from past
-programming languages. Some conservative estimates on the number of programming languages
-are 2500. We are only going to dip into some of them, to try and help us learn from history.
+programming languages. One conservative estimate on the number of programming languages
+is 2500. We are only going to dip into some of them, to try and help us learn from history.
 
 
 
